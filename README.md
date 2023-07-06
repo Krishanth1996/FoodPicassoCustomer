@@ -1,4 +1,4 @@
-# uber_eats_consumer
+# food_picasso_consumer
 
 A new Flutter application.
 
